@@ -112,27 +112,27 @@
 
     <div class="header">
         <h1>Happy Women's Day 8/3! 🌷</h1>
-        <p>Gửi đến con vợ Lại Quỳnh Hương</p>
+        <p>Gửi đến bạn Phạm Thùy Dương</p>
     </div>
 
     <div class="photo-grid">
     
         <div class="photo-card">
-            <img src="1.jpg" alt="Ảnh 1"> <h3>ngón tay kì kì</h3>
+            <img src="11.jpg" alt="Ảnh 1"> <h3>ảnh này lúc nào nhỉ</h3>
         </div>
         <div class="photo-card">
-            <img src="2.jpg" alt="Ảnh 2"> <h3>con vợ quá đẹp</h3>
+            <img src="22.jpg" alt="Ảnh 2"> <h3>ảnh nì xinh quớ trời</h3>
         </div>
         <div class="photo-card">
-            <img src="3.jpg" alt="Ảnh 3"> <h3>áo dài chiến đét</h3>
+            <img src="33.jpg" alt="Ảnh 3"> <h3>áo dài cute</h3>
         </div>
         <div class="photo-card">
-            <img src="4.jpg" alt="Ảnh 4"> <h3>nháy cái bắn rồi</h3>
+            <img src="55.jpg" alt="Ảnh 4"> <h3>so beautiful</h3>
         </div>
     </div>
 
     <div class="message">
-        <p>Chúc HƯƠNG một ngày 8/3 tràn đầy niềm vui, hạnh phúc và luôn rạng rỡ như những đóa hoa. Và chúc con vợ năm nay đậu nv1 nhé(´▽`ʃ❤️ƪ)</p>
+        <p>Chúc Dương một ngày 8/3 tràn đầy niềm vui, hạnh phúc và luôn rạng rỡ như những đóa hoa. Và chúc bạn ngày càng xinh và thành công hơn(´▽`ʃ❤️ƪ)</p>
     </div>
 
     <script>
